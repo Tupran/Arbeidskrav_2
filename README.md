@@ -20,7 +20,7 @@ og skrive svaret til skjerm med passende tekst.
 
 ---------------------------------------
 
-Oppgave 2
+Oppgave 2 (fil: Oppgave_2.py)
 
 Pizza beregning
 
@@ -30,7 +30,7 @@ Velger også å legge til test på antall pizzaer og elever for gramatikken
 
 ---------------------------------------
 
-Oppgave 3
+Oppgave 3 (fil: Oppgave_3.py)
 
 Omregning fra grader til radianer
 
@@ -39,13 +39,13 @@ oppgaveteksten er oppgitt kun 4 desimaler på Pi så avrunder jeg til 4 desimale
 
 ---------------------------------------
 
-Oppgave 4 a og b
+Oppgave 4 a og b (fil: Oppgave_4.py)
 
 Oppslag i "dictionary"
 
 ---------------------------------------
 
-Oppgave 4 c (fortsettelse på 4 a og b)
+Oppgave 4 c (fortsettelse på 4 a og b) (fil: Oppgave_4c.py)
 
 Legge til nye land i "dictionary" og skrive ut "dictionary" til skjermen
 
@@ -54,7 +54,7 @@ data i tre forskjellige formater.
 
 ---------------------------------------
 
-Oppgave 5
+Oppgave 5 (fil: Oppgave_5.py)
 
 Programmet har en funksjon som tar a og b som inn-argumenter og som så
 regner ut arealet og «ytre» omkrets til en figur satt sammen av en rettvinklet
@@ -64,6 +64,6 @@ a og b er katetene i trekanten
 
 ---------------------------------------
 
-Oppgave 6
+Oppgave 6 (fil: Oppgave_6.py)
 
 Kode som plotter funksjonen 𝑓(𝑥) = −𝑥^2 − 5, for x på intervallet [-10,10].
