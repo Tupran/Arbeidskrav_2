@@ -4,6 +4,8 @@ Created on Fri Jan 17 09:54:11 2025
 
 @author: oag
 
+Oppgave 6
+
 Kode som plotter funksjonen 𝑓(𝑥) = −𝑥^2 − 5, for x på intervallet [-10,10].
 
 """
