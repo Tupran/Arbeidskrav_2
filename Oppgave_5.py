@@ -4,6 +4,8 @@ Created on Fri Jan 17 09:14:36 2025
 
 @author: oag
 
+Oppgave 5
+
 Programmet har en funksjon som tar a og b som inn-argumenter og som så
 regner ut arealet og «ytre» omkrets til en figur satt sammen av en rettvinklet
 trekant og en halvsirkel. Halvsirkelen har a som diameter.
